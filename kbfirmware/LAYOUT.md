@@ -1,6 +1,6 @@
 ﻿# Standard Layout
 
-![Layer0](images/layer0)
+![Layer0](images/layer0.png)
 
 + Plus
 + Add to favorites
@@ -9,7 +9,7 @@
 + Audio on/off
 + Right
 
-![Layer1](images/layer1)
+![Layer1](images/layer1.png)
 
 RGB functions
 + HU_UP (Hue Up)
@@ -18,7 +18,7 @@ RGB functions
 + SA_DO (Saturation Down)
 + RGB_M (RGB Mode)
 
-![Layer2](images/layer2)
+![Layer2](images/layer2.png)
 
 RGB and backlight functions
 + RGB_T (RGB Toggle)
@@ -27,7 +27,7 @@ RGB and backlight functions
 + BL_UP (Backlight Up)
 + BL_DO (Backlight Down)
 
-![Layer3](images/layer3)
+![Layer3](images/layer3.png)
 
 extended navigation functions
 + ZO (Zoom Out)

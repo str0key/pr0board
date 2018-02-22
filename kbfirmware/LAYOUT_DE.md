@@ -1,6 +1,6 @@
 ﻿# Standard Layout
 
-![Layer0](images/layer0)
+![Layer0](images/layer0.png)
 
 + Plus
 + Zu den Favoriten hinzufügen
@@ -9,7 +9,7 @@
 + Ton an/aus
 + Rechts
 
-![Layer1](images/layer1)
+![Layer1](images/layer1.png)
 
 RGB Funktionen
 + HU_UP (Farbwert anheben)
@@ -18,7 +18,7 @@ RGB Funktionen
 + SA_DO (Sättigung senken)
 + RGB_M (RGB Modus)
 
-![Layer2](images/layer2)
+![Layer2](images/layer2.png)
 
 RGB und Backlight Funktionen
 + RGB_T (RGB An/Aus)
@@ -27,7 +27,7 @@ RGB und Backlight Funktionen
 + BL_UP (Backlight heller)
 + BL_DO (Backlight dunkler)
 
-![Layer3](images/layer3)
+![Layer3](images/layer3.png)
 
 Erweiterte Navigation
 + ZO (Verkleinern)
