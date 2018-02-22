@@ -8,7 +8,7 @@ Here's the [german version](README_DE.md).
 
 ## Standard layout
 
-More about the standard layout [here](kbfirmware/LAYOUT.md).
+More about the standard layout [here](LAYOUT.md).
 
 In case you fucked up the firmware, you can always flash the standard layout to the pr0board. Use the [pr0board.hex](kbfirmware/pr0board.hex) and follow the steps of *Create your own layout/firmware*.
 

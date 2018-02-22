@@ -9,7 +9,7 @@ Hier gehts zur [englischen Verion](README.md).
 
 ## Standardlayout
 
-Näheres zum Standardlayout gibts [hier](kbfirmware/LAYOUT_DE.md).
+Näheres zum Standardlayout gibts [hier](LAYOUT_DE.md).
 
 Falls ihr beim Flashen mal irgendwas verkackt habt, könnt ihr immer das Standardlayout drüberbügeln. Nehmt dazu das [pr0board.hex](kbfirmware/pr0board.hex) und befolgt die Schritte von *Erstelle dein eigenes Layout*.
 
