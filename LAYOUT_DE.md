@@ -42,4 +42,5 @@ Erweiterte Navigation
 + ZI (Vergrößern)
 + SU (Scroll rauf)
 + SD (Scroll runter)
++ R (Seite neu laden)
 

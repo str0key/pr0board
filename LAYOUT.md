@@ -42,3 +42,4 @@ extended navigation functions
 + ZI (Zoom In)
 + SU (Scroll Up)
 + SD (Scroll Down)
++ R (Reload Page)
